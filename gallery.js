@@ -46,7 +46,7 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "김규형 ♥ 강미연의 모바일 청첩장",
+        title: "최효탁 ♥ 이효림의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
         imageUrl: "https://i.imgur.com/tYuIfbQ.png",
         imageWidth: 1200,
